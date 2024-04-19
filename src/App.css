@@ -158,14 +158,6 @@ body {
   stroke-width: 3px;
 }
 
-/* @media screen and (max-width: 1024px) {
-  .time-item{
-    width: 40rem;
-  }
-  .animation-box{
-    right: 20%;
-  }
-} */
 @media screen and (max-width: 768px) {
 
   .animation-box{
