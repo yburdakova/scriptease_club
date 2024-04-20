@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scriptease_club/static/css/main.39f097c5.css",
+    "main.js": "/scriptease_club/static/js/main.7bd0e373.js",
+    "static/js/453.3db25ab0.chunk.js": "/scriptease_club/static/js/453.3db25ab0.chunk.js",
+    "index.html": "/scriptease_club/index.html",
+    "main.39f097c5.css.map": "/scriptease_club/static/css/main.39f097c5.css.map",
+    "main.7bd0e373.js.map": "/scriptease_club/static/js/main.7bd0e373.js.map",
+    "453.3db25ab0.chunk.js.map": "/scriptease_club/static/js/453.3db25ab0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39f097c5.css",
+    "static/js/main.7bd0e373.js"
+  ]
+}
